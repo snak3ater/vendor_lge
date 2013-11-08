@@ -50,5 +50,5 @@ PRODUCT_COPY_FILES := \
 	vendor/lge/hammerhead/proprietary/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so:lge \
 	vendor/lge/hammerhead/proprietary/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so:lge \
 	vendor/lge/hammerhead/proprietary/vss_init:system/vendor/bin/vss_init:lge \
-	
+	vendor/lge/hammerhead/proprietary/OmaDmclient.apk:system/app/OmaDmclient.apk:lge \
 
