@@ -48,7 +48,6 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so:lge \
     vendor/lge/hammerhead/proprietary/DxHDCP.cfg:system/etc/DxHDCP.cfg \
-    vendor/lge/hammerhead/proprietary/TimeService.apk:system/app/TimeService.apk \
     vendor/lge/hammerhead/proprietary/dxhdcp2.b00:system/vendor/firmware/discretix/dxhdcp2.b00 \
     vendor/lge/hammerhead/proprietary/dxhdcp2.b01:system/vendor/firmware/discretix/dxhdcp2.b01 \
     vendor/lge/hammerhead/proprietary/dxhdcp2.b02:system/vendor/firmware/discretix/dxhdcp2.b02 \
@@ -65,7 +64,6 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/lge/hammerhead/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/lge/hammerhead/proprietary/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/lge/hammerhead/proprietary/shutdownlistener.apk:system/app/shutdownlistener.apk \
     vendor/lge/hammerhead/proprietary/widevine.b00:system/vendor/firmware/widevine.b00 \
     vendor/lge/hammerhead/proprietary/widevine.b01:system/vendor/firmware/widevine.b01 \
     vendor/lge/hammerhead/proprietary/widevine.b02:system/vendor/firmware/widevine.b02 \
