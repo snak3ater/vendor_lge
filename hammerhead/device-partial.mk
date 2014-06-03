@@ -16,6 +16,7 @@
 PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel.apk:lge \
     vendor/lge/hammerhead/proprietary/SprintHiddenMenu.apk:system/app/SprintHiddenMenu.apk:lge \
+    vendor/lge/hammerhead/proprietary/UpdateSetting.apk:system/app/UpdateSetting.apk:lge \
     vendor/lge/hammerhead/proprietary/Bluetooth_cal.acdb:system/etc/Bluetooth_cal.acdb:lge \
     vendor/lge/hammerhead/proprietary/General_cal.acdb:system/etc/General_cal.acdb:lge \
     vendor/lge/hammerhead/proprietary/Global_cal.acdb:system/etc/Global_cal.acdb:lge \
@@ -47,25 +48,4 @@ PRODUCT_COPY_FILES := \
     vendor/lge/hammerhead/proprietary/libvss_nv_core.so:system/vendor/lib/libvss_nv_core.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_idl.so:system/vendor/lib/libvss_nv_idl.so:lge \
     vendor/lge/hammerhead/proprietary/libvss_nv_iface.so:system/vendor/lib/libvss_nv_iface.so:lge \
-    vendor/lge/hammerhead/proprietary/DxHDCP.cfg:system/etc/DxHDCP.cfg \
-    vendor/lge/hammerhead/proprietary/dxhdcp2.b00:system/vendor/firmware/discretix/dxhdcp2.b00 \
-    vendor/lge/hammerhead/proprietary/dxhdcp2.b01:system/vendor/firmware/discretix/dxhdcp2.b01 \
-    vendor/lge/hammerhead/proprietary/dxhdcp2.b02:system/vendor/firmware/discretix/dxhdcp2.b02 \
-    vendor/lge/hammerhead/proprietary/dxhdcp2.b03:system/vendor/firmware/discretix/dxhdcp2.b03 \
-    vendor/lge/hammerhead/proprietary/dxhdcp2.mdt:system/vendor/firmware/discretix/dxhdcp2.mdt \
-    vendor/lge/hammerhead/proprietary/libDxHdcp.so:system/vendor/lib/libDxHdcp.so \
-    vendor/lge/hammerhead/proprietary/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
-    vendor/lge/hammerhead/proprietary/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
-    vendor/lge/hammerhead/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
-    vendor/lge/hammerhead/proprietary/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/lge/hammerhead/proprietary/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
-    vendor/lge/hammerhead/proprietary/libvdmengine.so:system/vendor/lib/libvdmengine.so \
-    vendor/lge/hammerhead/proprietary/libvdmfumo.so:system/vendor/lib/libvdmfumo.so \
-    vendor/lge/hammerhead/proprietary/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/lge/hammerhead/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/lge/hammerhead/proprietary/libwvm.so:system/vendor/lib/libwvm.so \
-    vendor/lge/hammerhead/proprietary/widevine.b00:system/vendor/firmware/widevine.b00 \
-    vendor/lge/hammerhead/proprietary/widevine.b01:system/vendor/firmware/widevine.b01 \
-    vendor/lge/hammerhead/proprietary/widevine.b02:system/vendor/firmware/widevine.b02 \
-    vendor/lge/hammerhead/proprietary/widevine.b03:system/vendor/firmware/widevine.b03 \
-    vendor/lge/hammerhead/proprietary/widevine.mdt:system/vendor/firmware/widevine.mdt
+
